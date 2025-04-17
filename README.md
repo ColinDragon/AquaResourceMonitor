@@ -21,7 +21,7 @@ To get started with AquaSys, follow these steps:
 Clone the repository,
 
 bash -> Copy -> Edit
-  git clone https://github.com/your-username/AquaSys.git
+  git clone 'github.com/your-username/AquaSys.git'
 Install the required dependencies:
 
 bash -> Copy -> Edit
